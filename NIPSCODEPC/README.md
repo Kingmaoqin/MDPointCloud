@@ -1,10 +1,5 @@
 # NIPSCODEPC
 
-Cleaned core implementation for the paper's main algorithm:
-
-**Structured safe updating for online anatomical state maintenance under partial intraoperative observations.**
-
-This folder intentionally excludes experiment launchers, ablation sweeps, plotting scripts, result aggregation, and review-response code. It contains only the algorithm components needed to run the online updater.
 
 ## Files
 
